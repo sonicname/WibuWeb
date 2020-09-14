@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/WibuWeb/static/css/main.5f361e03.chunk.css",
+    "main.js": "/WibuWeb/static/js/main.aa02e458.chunk.js",
+    "main.js.map": "/WibuWeb/static/js/main.aa02e458.chunk.js.map",
+    "runtime-main.js": "/WibuWeb/static/js/runtime-main.19cde79e.js",
+    "runtime-main.js.map": "/WibuWeb/static/js/runtime-main.19cde79e.js.map",
+    "static/js/2.8f901020.chunk.js": "/WibuWeb/static/js/2.8f901020.chunk.js",
+    "static/js/2.8f901020.chunk.js.map": "/WibuWeb/static/js/2.8f901020.chunk.js.map",
+    "index.html": "/WibuWeb/index.html",
+    "precache-manifest.ae67965da6084095b6e355f254a55d2c.js": "/WibuWeb/precache-manifest.ae67965da6084095b6e355f254a55d2c.js",
+    "service-worker.js": "/WibuWeb/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/WibuWeb/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.8f901020.chunk.js.LICENSE.txt": "/WibuWeb/static/js/2.8f901020.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/WibuWeb/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.19cde79e.js",
+    "static/js/2.8f901020.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.aa02e458.chunk.js"
+  ]
+}
