@@ -1,0 +1,1 @@
+{"version":3,"sources":["Topbar.css"],"names":[],"mappings":"AAAA,WACE,iBAAkB,CAClB,gBAAoB,CACpB,wBAAyB,CACzB,aACF","file":"main.609c82c3.chunk.css","sourcesContent":[".title_bar {\r\n  text-align: center;\r\n  padding: 1.4rem 0rem;\r\n  background-color: #fffffe;\r\n  color: #00214d;\r\n}\r\n"]}
