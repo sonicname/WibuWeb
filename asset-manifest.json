@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/WibuWeb/static/css/main.609c82c3.chunk.css",
-    "main.js": "/WibuWeb/static/js/main.ecac6097.chunk.js",
-    "main.js.map": "/WibuWeb/static/js/main.ecac6097.chunk.js.map",
+    "main.js": "/WibuWeb/static/js/main.74d4defc.chunk.js",
+    "main.js.map": "/WibuWeb/static/js/main.74d4defc.chunk.js.map",
     "runtime-main.js": "/WibuWeb/static/js/runtime-main.19cde79e.js",
     "runtime-main.js.map": "/WibuWeb/static/js/runtime-main.19cde79e.js.map",
     "static/css/2.8aa5a7f8.chunk.css": "/WibuWeb/static/css/2.8aa5a7f8.chunk.css",
     "static/js/2.39233d41.chunk.js": "/WibuWeb/static/js/2.39233d41.chunk.js",
     "static/js/2.39233d41.chunk.js.map": "/WibuWeb/static/js/2.39233d41.chunk.js.map",
     "index.html": "/WibuWeb/index.html",
-    "precache-manifest.245b2e497dba09b033b84a778aa913d0.js": "/WibuWeb/precache-manifest.245b2e497dba09b033b84a778aa913d0.js",
+    "precache-manifest.be3575e0c6267cd29ef6cef1601beaff.js": "/WibuWeb/precache-manifest.be3575e0c6267cd29ef6cef1601beaff.js",
     "service-worker.js": "/WibuWeb/service-worker.js",
     "static/css/2.8aa5a7f8.chunk.css.map": "/WibuWeb/static/css/2.8aa5a7f8.chunk.css.map",
     "static/css/main.609c82c3.chunk.css.map": "/WibuWeb/static/css/main.609c82c3.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.8aa5a7f8.chunk.css",
     "static/js/2.39233d41.chunk.js",
     "static/css/main.609c82c3.chunk.css",
-    "static/js/main.ecac6097.chunk.js"
+    "static/js/main.74d4defc.chunk.js"
   ]
 }

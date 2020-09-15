@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fec0ebbf95dcb14c72517222cc09fbe8",
+    "revision": "7036a05c1430c50d8ac476dadef1f180",
     "url": "/WibuWeb/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/WibuWeb/static/css/2.8aa5a7f8.chunk.css"
   },
   {
-    "revision": "3c54e1357d46f760e680",
+    "revision": "df63472b988af6eb8f2c",
     "url": "/WibuWeb/static/css/main.609c82c3.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/WibuWeb/static/js/2.39233d41.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3c54e1357d46f760e680",
-    "url": "/WibuWeb/static/js/main.ecac6097.chunk.js"
+    "revision": "df63472b988af6eb8f2c",
+    "url": "/WibuWeb/static/js/main.74d4defc.chunk.js"
   },
   {
     "revision": "df75de7d2913c6cc5f6b",
