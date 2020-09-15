@@ -62,7 +62,7 @@ export default class Maincontent extends Component {
     });
     this.setState({
       hintCategory: result.join(", "),
-      seleted: categoryInput,
+      seleted: categoryInput.toLowerCase(),
     });
   }
 
